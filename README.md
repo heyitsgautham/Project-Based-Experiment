@@ -42,15 +42,25 @@ From the HDL code given formulate the correct code  to divert the traffic to pa
    
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
+/* 
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+Developed by: GAUTHAM KRISHNA S
+RegisterNumber: 212223240036
+*/
 
 **RTL Schematic**
 
+![331851446-b4c4498d-0fef-48d5-9b15-240ddf5ed7ff](https://github.com/gauthamkrishna7/Project-Based-Experiment/assets/141175025/be23cd85-5d2c-4750-865d-580c6b96587a)
+
+
 **Output Timing Waveform**
 
+![331851457-592b042a-6bd9-45f8-8f0a-1aa98d11c6e8](https://github.com/gauthamkrishna7/Project-Based-Experiment/assets/141175025/17e85618-edf1-4f46-bcde-05bc91718c39)
+
+
 **Result:**
+
+Thus the design and simulate the traffic light controller are successfullt executed.
 
 
 
